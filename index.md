@@ -9,7 +9,7 @@
 <span style="font-family:Times New Roman; font-size:1em;">B.S. Computer Science, University of California, San Diego, June 2025</span>
 <br>
 
-<span style="font-family:Times New Roman; font-size:1em;">Interests: Machine Learning, Software Engineering</span>
+<span style="font-family:Times New Roman; font-size:1em;">Interests: Software Engineering</span>
 
 <span style="font-family:Times New Roman; font-size:2em;">Projects: </span> 
 
