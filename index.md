@@ -14,7 +14,14 @@
 <span style="font-family:Times New Roman; font-size:2em;">Projects: </span> 
 
 
-<span style="font-family:Times New Roman; font-size:1em;">OpenAI Gym Car Racing: </span> 
+<span style="font-family:Times New Roman; font-size:1em;">OpenAI Gym Car Racing:
+</span> 
+<br>
+
+<span style="font-family:Times New Roman; font-size:1em;"> [Github](https://github.com/kan-ryan/CarRacing)
+</span> 
+
+<br>
 <video width="320" heigh = "320" controls> 
     <source src = "car_racing.mp4" type="video/mp4">
 </video>
