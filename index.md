@@ -4,7 +4,7 @@
 <br>
 <span style="font-family:Times New Roman; font-size:2em;">Bio </span>
 <br>
-<span style="font-family:Times New Roman; font-size:1em;">A computer science student looking for software/machine learning internship</span>
+<span style="font-family:Times New Roman; font-size:1em;">A computer science student looking for software engineering internship</span>
 <br>
 <span style="font-family:Times New Roman; font-size:1em;">B.S. Computer Science, University of California, San Diego, June 2025</span>
 <br>
