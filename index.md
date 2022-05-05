@@ -6,7 +6,9 @@
 <br>
 <span style="font-family:Times New Roman; font-size:1em;">A computer science student looking for software engineering internship</span>
 <br>
-<span style="font-family:Times New Roman; font-size:1em;">B.S. Computer Science, University of California, San Diego, June 2025</span>
+<span style="font-family:Times New Roman; font-size:1em;">B.S. Computer Science, University of California, San Diego.</span>
+<br>
+<span style="font-family:Times New Roman; font-size:1em;">Expected Graudation Date: June 2024</span>
 <br>
 
 <span style="font-family:Times New Roman; font-size:1em;">Interests: Software Engineering</span>
