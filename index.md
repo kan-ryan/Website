@@ -15,8 +15,11 @@
 
 <span style="font-family:Times New Roman; font-size:2em;">Projects: </span> 
 
+<span style="font-family:Times New Roman; font-size:1em;">OpenAI Gym Lunar Lander (Summer 2022):
+</span> 
+<br>
 
-<span style="font-family:Times New Roman; font-size:1em;">OpenAI Gym Car Racing:
+<span style="font-family:Times New Roman; font-size:1em;">OpenAI Gym Car Racing (Winter/Spring 2022):
 </span> 
 <br>
 
@@ -24,7 +27,7 @@
 </span> 
 
 <br>
-<video width="320" heigh = "320" controls> 
+<video width="320" height = "320" controls> 
     <source src = "car_racing.mp4" type="video/mp4">
 </video>
 <br>
