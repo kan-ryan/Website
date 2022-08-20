@@ -19,6 +19,15 @@
 </span> 
 <br>
 
+<span style="font-family:Times New Roman; font-size:1em;"> [Github](https://github.com/kan-ryan/LunarLanderNew)
+</span> 
+
+<br>
+<video width="320" height = "320" controls> 
+    <source src = "LunarLander.mp4" type="video/mp4">
+</video>
+<br>
+
 <span style="font-family:Times New Roman; font-size:1em;">OpenAI Gym Car Racing (Winter/Spring 2022):
 </span> 
 <br>
@@ -32,3 +41,4 @@
 </video>
 <br>
 
+===-
